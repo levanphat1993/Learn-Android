@@ -1,36 +1,4 @@
-Skip to content
-Product 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-androiddevnotes
-/
-awesome-android-learning-resources
-Public
-Code
-Issues
-2
-Pull requests
-6
-Actions
-Projects
-Wiki
-Security
-Insights
-awesome-android-learning-resources/README.md
-@kgdobariya
-kgdobariya Adding new resouce for android weekly newsletter (#66)
-…
-Latest commit 90fc705 on Feb 9
- History
- 38 contributors
-@androiddevnotes@SourabhSNath@PrajjwalPathak@subhipandey@Sharkaboi@dkarakay@adriandleon@bhaveshgoyal182@kkdroidgit@Farkadi06@Haid-Faiz@srishti-034
-1063 lines (556 sloc)  59.8 KB
+
 
 
 <h1 align="center">Awesome Android Learning Resources</h1></br>
